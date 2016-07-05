@@ -27,4 +27,10 @@ window.onclick = function(event) {
     }
   }
 }
+
+function myfunction2(event) {
+	if (document.getElementsByClassName(".btn1") onclick(".btn1")) = style.background-color(".dropbtn") = #F90443
+ }
+
+
 $(document).ready(main);
