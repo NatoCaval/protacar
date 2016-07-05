@@ -1,0 +1,95 @@
+body {
+	background-color: #00CCFF;
+}
+
+.arriba {
+	background-color: #48D1CC;
+	font-family: impact;
+}
+
+.boton {
+	text-align: center;
+	background-color: #AFEEEE;
+	font-family: Arial Black;
+	background-size: 300px;
+	width: 100px;
+	height: 80px;
+	border-color: #AFEEEE; 
+
+}
+
+.oo {
+	background-color: #48D1CC;
+	width: 150px;
+	height: 100px;
+}
+
+
+.btn1 {
+	background-color: #F90443;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn2 {
+	background-color: #F9A804;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.btn3 {
+	background-color: #305678;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+/* Dropdown Button */
+.dropbtn {
+    background-color: #AFEEEE;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #AFEEEE;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: ;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
